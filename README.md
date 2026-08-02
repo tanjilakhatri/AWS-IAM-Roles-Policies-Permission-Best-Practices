@@ -15,6 +15,20 @@ This project focuses on creating IAM users, groups, custom policies, IAM roles, 
 
 ## 📌 Project Overview
 
+## 📑 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Objectives](#-objectives)
+- [AWS Services Used](#-aws-services-used)
+- [Project Architecture](#-project-architecture)
+- [Project Implementation](#-project-implementation)
+- [Project Folder Structure](#-project-folder-structure)
+- [Project Screenshots](#-project-screenshots)
+- [Security Best Practices](#-security-best-practices)
+- [Learning Outcomes](#-learning-outcomes)
+- [Future Improvements](#-future-improvements)
+- [Author](#-author)
+
 In a real organization, different teams require different levels of access to AWS services. Providing the same permissions to every user can create security risks.
 
 This project simulates a company environment where Developers, DevOps Engineers, and Auditors require different permissions based on their job roles. Using AWS IAM, secure access control is implemented by creating users, groups, policies, and roles while following the Principle of Least Privilege.
@@ -84,7 +98,9 @@ Created six IAM users to represent different departments within the organization
 
 📷 **Screenshot**
 
-> Add the screenshot of the IAM Users page here.
+<p align="center">
+  <img src="screenshots/iam-users.png" width="900">
+</p>
 
 ---
 
@@ -101,7 +117,9 @@ Each user was added to the appropriate group based on their job role.
 
 📷 **Screenshot**
 
-> Add the screenshot of the IAM Groups page here.
+<p align="center">
+  <img src="screenshots/iam-groups.png" width="900">
+</p>
 
 ---
 
@@ -119,7 +137,9 @@ Sample files were uploaded to verify access permissions.
 
 📷 **Screenshot**
 
-> Add the screenshot of the S3 Bucket here.
+<p align="center">
+  <img src="screenshots/s3-bucket.png" width="900">
+</p>
 
 ---
 
@@ -149,7 +169,9 @@ Attached AWS Managed Policy:
 
 📷 **Screenshot**
 
-> Add the screenshot of IAM Policies here.
+<p align="center">
+  <img src="screenshots/iam-policies.png" width="900">
+</p>
 
 ---
 
@@ -171,6 +193,8 @@ The role was assigned to an EC2 instance to provide secure access to the S3 buck
 
 📷 **Screenshot**
 
-> Add the screenshot of the IAM Role here.
+<p align="center">
+  <img src="screenshots/iam-role.png" width="900">
+</p>
 
 ---
