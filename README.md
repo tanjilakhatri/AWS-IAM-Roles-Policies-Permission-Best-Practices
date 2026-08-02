@@ -58,3 +58,112 @@ This project simulates a company environment where Developers, DevOps Engineers,
 ```
 
 ---
+
+## 🚀 Project Implementation
+
+The following steps were performed to implement secure Identity and Access Management (IAM) in AWS.
+
+### Step 1: Created IAM Users
+
+Created six IAM users to represent different departments within the organization.
+
+**Users Created:**
+- developer1
+- developer2
+- devops1
+- devops2
+- auditor1
+- auditor2
+
+📷 **Screenshot**
+
+> Add the screenshot of the IAM Users page here.
+
+---
+
+### Step 2: Created IAM Groups
+
+Three IAM groups were created to manage permissions efficiently.
+
+**Groups Created:**
+- Developers
+- DevOps
+- Auditors
+
+Each user was added to the appropriate group based on their job role.
+
+📷 **Screenshot**
+
+> Add the screenshot of the IAM Groups page here.
+
+---
+
+### Step 3: Created Amazon S3 Bucket
+
+An Amazon S3 bucket was created to store project files and test user permissions.
+
+**Bucket Name**
+
+```
+company-project-storage
+```
+
+Sample files were uploaded to verify access permissions.
+
+📷 **Screenshot**
+
+> Add the screenshot of the S3 Bucket here.
+
+---
+
+### Step 4: Created IAM Policies
+
+Custom IAM policies were created based on the responsibilities of each team.
+
+#### Developers Policy
+
+Allowed permissions:
+- List Bucket
+- Upload Objects
+- Download Objects
+
+#### DevOps Policy
+
+Allowed permissions:
+- EC2 Management
+- CloudWatch Access
+- IAM Read Permissions
+
+#### Auditors
+
+Attached AWS Managed Policy:
+
+- ReadOnlyAccess
+
+📷 **Screenshot**
+
+> Add the screenshot of IAM Policies here.
+
+---
+
+### Step 5: Created IAM Role
+
+Created an IAM role named:
+
+```
+EC2-S3-Access-Role
+```
+
+Attached:
+
+```
+AmazonS3ReadOnlyAccess
+```
+
+The role was assigned to an EC2 instance to provide secure access to the S3 bucket without storing access keys.
+
+📷 **Screenshot**
+
+> Add the screenshot of the IAM Role here.
+
+---
