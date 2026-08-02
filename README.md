@@ -198,3 +198,28 @@ The role was assigned to an EC2 instance to provide secure access to the S3 buck
 </p>
 
 ---
+
+## 📁 Project Folder Structure
+
+```
+aws-iam-security-project
+│
+├── architecture/
+│   └── architecture.png
+│
+├── policies/
+│   ├── developers-policy.json
+│   └── devops-policy.json
+│
+├── screenshots/
+│   ├── iam-users.png
+│   ├── iam-groups.png
+│   ├── s3-bucket.png
+│   ├── iam-policies.png
+│   ├── iam-role.png
+│   └── permission-test.png
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
