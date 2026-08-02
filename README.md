@@ -273,3 +273,21 @@ aws-iam-security-project
 ### Permission Validation
 
 *(Screenshot will be displayed here after completion.)*
+
+---
+
+# 💡 Key Skills Demonstrated
+
+- AWS Identity and Access Management (IAM)
+- Amazon S3
+- Amazon EC2
+- IAM Users and Groups
+- IAM Roles
+- Custom IAM Policies
+- Role-Based Access Control (RBAC)
+- Principle of Least Privilege
+- Multi-Factor Authentication (MFA)
+- Permission Validation
+- AWS Security Best Practices
+
+---
