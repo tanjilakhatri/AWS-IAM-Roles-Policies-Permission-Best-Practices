@@ -1,5 +1,12 @@
 # 🔐 AWS IAM Security Project
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
+![IAM](https://img.shields.io/badge/Service-IAM-blue)
+![EC2](https://img.shields.io/badge/EC2-Amazon-yellow)
+![S3](https://img.shields.io/badge/S3-Storage-green)
+![Status](https://img.shields.io/badge/Project-In%20Progress-success)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 A hands-on AWS cloud security project that demonstrates how to implement Identity and Access Management (IAM) using industry best practices.
 
 This project focuses on creating IAM users, groups, custom policies, IAM roles, Multi-Factor Authentication (MFA), and permission validation to secure AWS resources based on user responsibilities.
