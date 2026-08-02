@@ -223,3 +223,51 @@ aws-iam-security-project
 ├── LICENSE
 └── .gitignore
 ```
+
+## 📷 Project Screenshots
+
+### IAM Users
+
+*(Screenshot will be displayed here.)*
+
+---
+
+### IAM Groups
+
+*(Screenshot will be displayed here.)*
+
+---
+
+### Amazon S3 Bucket
+
+*(Screenshot will be displayed here.)*
+
+---
+
+### IAM Policies
+
+*(Screenshot will be displayed here.)*
+
+---
+
+### IAM Role
+
+*(Screenshot will be displayed here.)*
+
+---
+
+### EC2 Instance
+
+*(Screenshot will be displayed here after completion.)*
+
+---
+
+### MFA Configuration
+
+*(Screenshot will be displayed here after completion.)*
+
+---
+
+### Permission Validation
+
+*(Screenshot will be displayed here after completion.)*
