@@ -60,7 +60,9 @@ This project simulates a company environment where Developers, DevOps Engineers,
 
 ## 🏗 Project Architecture
 
-> Architecture diagram will be added after completing the implementation.
+<p align="center">
+<img src="architecture/architecture.png" width="900">
+</p>
 
 ```
                  AWS Account
