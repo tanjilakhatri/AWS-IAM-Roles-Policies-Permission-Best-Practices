@@ -390,8 +390,6 @@ Overall, this project provided valuable hands-on experience in AWS cloud securit
 
 ### Connect with Me
 
-- GitHub: https://github.com/YourUsername
-- LinkedIn: https://linkedin.com/in/YourLinkedIn
-
-> Replace the GitHub and LinkedIn links with your actual profile URLs.
+- GitHub: https://github.com/tanjilakhatri/AWS-IAM-Roles-Policies-Permission-Best-Practices/edit/main/README.md
+- LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7490002829475147776/
 ---
