@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="architecture/banner.png" alt="AWS IAM Security Project Banner" width="100%">
+</p>
+
 # 🔐 AWS IAM Security Project
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)
