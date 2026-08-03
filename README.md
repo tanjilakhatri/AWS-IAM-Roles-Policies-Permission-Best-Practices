@@ -62,10 +62,12 @@ This project simulates a company environment where Developers, DevOps Engineers,
 
 ---
 
-## 🏗 Project Architecture
+## 🏗️ Project Architecture
+
+The following diagram illustrates the AWS IAM architecture implemented in this project.
 
 <p align="center">
-<img src="architecture/architecture.png" width="900">
+  <img src="architecture/architecture.png" alt="AWS IAM Security Architecture" width="100%">
 </p>
 
 ```
