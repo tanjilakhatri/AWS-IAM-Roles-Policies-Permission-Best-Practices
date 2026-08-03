@@ -234,51 +234,83 @@ aws-iam-security-project
 
 ## 📷 Project Screenshots
 
-### IAM Users
+### 1. IAM Users
 
-*(Screenshot will be displayed here.)*
+The following screenshot shows the IAM users created for different organizational roles.
 
----
-
-### IAM Groups
-
-*(Screenshot will be displayed here.)*
+<p align="center">
+  <img src="screenshots/iam-users.png" alt="IAM Users" width="100%">
+</p>
 
 ---
 
-### Amazon S3 Bucket
+### 2. IAM Groups
 
-*(Screenshot will be displayed here.)*
+The following screenshot shows the IAM groups used to organize users based on their responsibilities.
 
----
-
-### IAM Policies
-
-*(Screenshot will be displayed here.)*
+<p align="center">
+  <img src="screenshots/iam-groups.png" alt="IAM Groups" width="100%">
+</p>
 
 ---
 
-### IAM Role
+### 3. Amazon S3 Bucket
 
-*(Screenshot will be displayed here.)*
+The following screenshot shows the Amazon S3 bucket created for this project.
 
----
-
-### EC2 Instance
-
-*(Screenshot will be displayed here after completion.)*
+<p align="center">
+  <img src="screenshots/s3-bucket.png" alt="Amazon S3 Bucket" width="100%">
+</p>
 
 ---
 
-### MFA Configuration
+### 4. IAM Policies
 
-*(Screenshot will be displayed here after completion.)*
+The following screenshot shows the custom IAM policies created for different user groups.
+
+<p align="center">
+  <img src="screenshots/iam-policies.png" alt="IAM Policies" width="100%">
+</p>
 
 ---
 
-### Permission Validation
+### 5. IAM Role
 
-*(Screenshot will be displayed here after completion.)*
+The following screenshot shows the IAM role attached to the EC2 instance.
+
+<p align="center">
+  <img src="screenshots/iam-role.png" alt="IAM Role" width="100%">
+</p>
+
+---
+
+### 6. EC2 Instance
+
+The following screenshot shows the Amazon EC2 instance used in this project.
+
+<p align="center">
+  <img src="screenshots/ec2-instance.png" alt="EC2 Instance" width="100%">
+</p>
+
+---
+
+### 7. Multi-Factor Authentication (MFA)
+
+The following screenshot shows MFA configured for enhanced account security.
+
+<p align="center">
+  <img src="screenshots/mfa.png" alt="MFA Configuration" width="100%">
+</p>
+
+---
+
+### 8. Permission Validation
+
+The following screenshot demonstrates successful permission testing and access validation.
+
+<p align="center">
+  <img src="screenshots/permission-validation.png" alt="Permission Validation" width="100%">
+</p>
 
 ---
 
